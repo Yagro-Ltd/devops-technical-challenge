@@ -26,7 +26,7 @@ We love answering questions. Please send us your questions at the email address 
 
 - Include some form of CI/CD pipeline code. GitHub Actions, Jenkins, or any other tool is fine.
 - Have the group of ASG's deliver said application via an ECS Cluster.
-- Create and use variables so this can be used in multiple builds.
+- Consider how the configuration can be reused in multiple builds
 - Create a method to add linting or verifying that the code meets [Terraform style conventions](https://www.terraform.io/docs/language/syntax/style.html).
 
 ## **Submission**
